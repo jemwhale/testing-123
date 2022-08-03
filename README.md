@@ -1,6 +1,6 @@
 # Testing, testing, 123
 
-The purpose of this repo is to give you some experience writing tests using the Jest testing library. You can check our [their documentation](https://jestjs.io/docs/getting-started) any time if there's anything you need to know.
+The purpose of this repo is to give you some experience writing tests using the Jest testing library. You can check out [their documentation](https://jestjs.io/docs/getting-started) any time if there's anything you need to know.
 
 ## Setting up the project
 

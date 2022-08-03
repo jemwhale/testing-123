@@ -1,15 +1,16 @@
-const rectangle = {
-  width: 3,
-  height: 7,
-  colour: 'green',
+class Rectangle {
+
+  constructor (width, height) {
+    this.width = width
+    this.height = height
+  }
 
   area () {
-    return this.width * this.height
-  },
+    return this.height * this.width
+  }
 
   perimeter () {
-    return 2 * (this.width + this.height)
+    return 2 * (this.height + this.width)
   }
-}
 
-module.exports = { rectangle }
+}

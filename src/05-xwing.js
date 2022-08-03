@@ -60,5 +60,3 @@ class Xwing extends Spaceship {
   }
 
 }
-
-module.exports = { Spaceship, Xwing }

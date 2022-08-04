@@ -19,3 +19,5 @@ class Point {
     this.y *= k
   }
 }
+
+module.exports = {Point}
